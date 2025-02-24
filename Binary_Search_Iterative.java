@@ -1,4 +1,4 @@
-class Binary_Search {
+class Binary_Search_Iterative {
 public static int BinarySearch(int arr[],int key){
     int s=0,e=arr.length-1;
     while(s<e)
